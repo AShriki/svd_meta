@@ -1,2 +1,4 @@
 /target
 Cargo.lock
+/mains_dc_motor_driver/mains_dc_motor_driver-backups
+*.kicad_sch-bak
