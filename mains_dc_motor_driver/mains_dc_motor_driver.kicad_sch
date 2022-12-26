@@ -8,7 +8,7 @@
   )
 
 
-  (text "MCU PSU" (at 181.61 177.8 0)
+  (text "Mains direct drive project\n" (at 181.61 177.8 0)
     (effects (font (size 5.08 5.08)) (justify left bottom))
     (uuid 6d351fbc-acea-4811-9948-d4294e2759e2)
   )
@@ -83,9 +83,6 @@
   )
 
   (symbol_instances
-    (path "/c5e739fd-d08e-410d-bcdd-6b62be08df5c/0933a539-7bcd-44cb-9ae2-b7466d6f552a"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
-    )
     (path "/5c5c0372-91ba-444d-a300-79e288c744d7/0ae77505-c3c8-4162-82d5-eb1f4e3c4ecf"
       (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
     )
@@ -378,9 +375,6 @@
       (reference "M?") (unit 1) (value "Motor_DC") (footprint "")
     )
     (path "/f8271573-48bd-46c4-8c54-7f4e6bdd3847/1fe30587-6c79-44d6-a76d-acd9d56d6aa6"
-      (reference "Q?") (unit 1) (value "IPTG111N20NM3FDATMA1") (footprint "Package_TO_SOT_SMD:Infineon_PG-HSOF-8-1")
-    )
-    (path "/f8271573-48bd-46c4-8c54-7f4e6bdd3847/fce5c9c9-4b10-407c-b3b6-a9f36dbe56ba"
       (reference "Q?") (unit 1) (value "IPTG111N20NM3FDATMA1") (footprint "Package_TO_SOT_SMD:Infineon_PG-HSOF-8-1")
     )
     (path "/8befc8c4-1a7d-4b18-adb8-89418994d134/058ba348-e204-463e-86ff-351f820d8132"
